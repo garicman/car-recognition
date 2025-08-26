@@ -1,0 +1,10 @@
+opencv-python
+google
+keras
+matplotlib
+numpy
+oauth2client
+pydrive
+seaborn
+tensorflow
+jupyterlab
