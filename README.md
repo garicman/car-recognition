@@ -27,4 +27,4 @@ Open the notebook at `notebooks/01_car_recognition_demo.ipynb` and run the cells
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+See [LICENSE](LICENSE).
