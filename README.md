@@ -7,7 +7,7 @@ It contains the original Jupyter notebook and minimal scaffolding so it’s easy
 - **Status:** Archived / read-only
 - **Owner:** Martin Garic
 
-## Dataset layou
+## Dataset layout
 
 - `2brands/` — two subfolders, each corresponding to **one car brand** (binary classification).
 - `3brands/` — three subfolders: two specific brands **plus** a folder with **random brands** (treated as an **'other'** class).
